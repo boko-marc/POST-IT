@@ -1,0 +1,25 @@
+{
+  "name": "c-dev-121-cot-1-1-postit-marc-uriel-zinsou.boko",
+  "version": "1.0.0",
+  "description": "",
+  "author": "marc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-vuex": "~4.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/EpitechCodingAcademyPromo2022/C-DEV-121-COT-1-1-postit-marc-uriel-zinsou.boko/issues"
+  },
+  "homepage": "https://github.com/EpitechCodingAcademyPromo2022/C-DEV-121-COT-1-1-postit-marc-uriel-zinsou.boko#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechCodingAcademyPromo2022/C-DEV-121-COT-1-1-postit-marc-uriel-zinsou.boko.git"
+  }
+}

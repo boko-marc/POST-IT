@@ -1,0 +1,12 @@
+Post-it est un projet de blocs notes, vous pouvez ajouter,supprimer,modifier une note.Elle est réalisé avec Vuejs.
+Après avoir cloné le repo,faites d'abord npm install
+ensuite cd post-it et faites npm run serve pour lancer le server.
+Dernierement faites json-server db.json pour lancer le fichier db.json qui joue le role de serveur dans ce projet dans un nouveau terminal
+
+
+#English
+Post-it is a notepad project, you can add, delete, modify a note. It is made with Vuejs.
+After cloning the repo, first do npm install
+then cd post-it and do npm run serve to start the server.
+Finally do json-server db.json to launch the db.json file which plays the role of server in this project in a new terminal
+
